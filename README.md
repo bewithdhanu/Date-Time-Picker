@@ -2,6 +2,8 @@
 
 Date Time Picker library contains date picker and time picker, as well datetimepicker also.it is simple to use and very small sized library and free to use.
 
+[![](https://jitpack.io/v/bewithdhanu/DateTimePicker.svg)](https://jitpack.io/#bewithdhanu/DateTimePicker)
+
 Date Time Picker 
 ---- 
 <img src="https://github.com/bewithdhanu/Date-Time-Picker/blob/master/ezgif-4-1af16ccb05.gif" data-canonical-src="https://github.com/bewithdhanu/Date-Time-Picker/blob/master/ezgif-4-1af16ccb05.gif" height="400" />
