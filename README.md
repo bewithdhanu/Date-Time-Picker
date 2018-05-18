@@ -6,7 +6,7 @@ Date Time Picker library contains date picker and time picker, as well datetimep
 
 Date Time Picker 
 ---- 
-<img src="https://github.com/bewithdhanu/Date-Time-Picker/blob/master/ezgif-4-1af16ccb05.gif" data-canonical-src="https://github.com/bewithdhanu/Date-Time-Picker/blob/master/ezgif-4-1af16ccb05.gif" height="400" />
+<img src="https://raw.githubusercontent.com/bewithdhanu/Date-Time-Picker/master/ezgif-4-1af16ccb05.gif" data-canonical-src="https://raw.githubusercontent.com/bewithdhanu/Date-Time-Picker/master/ezgif-4-1af16ccb05.gif" height="400" />
 
 ## Table of Contents
 1. [Setup](#setup)
