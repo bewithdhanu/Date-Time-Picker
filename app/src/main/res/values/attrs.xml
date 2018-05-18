@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DateTimePicker">
+        <attr name="format" format="enum">
+            <enum name="datetime" value="0"/>
+            <enum name="date" value="1"/>
+            <enum name="time" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
