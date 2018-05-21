@@ -31,7 +31,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.bewithdhanu:DateTimePicker:master-fb9af6ddf2-1'
+	        implementation 'com.github.bewithdhanu:DateTimePicker:dc8a030e3f'
 	}
   
   Maven:
@@ -48,7 +48,7 @@ Step 2. Add the dependency
 	<dependency>
 	    <groupId>com.github.bewithdhanu</groupId>
 	    <artifactId>DateTimePicker</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>dc8a030e3f</version>
 	</dependency>
 
 
